@@ -12,7 +12,7 @@ Design to overcome the limitations that were present in REBOL. The implementatio
 * Portability.
 * Flexibility.
 
-## **Pradigm**
+## **Paradigm**
 **Reactive programming**, independent of language types (OOPS/function-based). But it has a part of Object-Oriented Language too, REBOL tried to innovate on the language paradigm doing a remix of both mentioned.
 
 ## **Strengths and weaknesses**
@@ -55,6 +55,7 @@ According to the official page of this website, it is thought to keep improving 
 ## **Bibliography**
 
 [Official Red Website](https://www.red-lang.org)
+
 [Official Red GitHub](https://github.com/red/red)
 
 
